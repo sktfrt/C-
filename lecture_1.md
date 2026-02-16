@@ -27,9 +27,9 @@ delete pi
 delete [] array
 ```
 
-malloc <==> free
-new  <==> delete
-new[] <==> delete[]
+- malloc <==> free
+- new  <==> delete
+- new[] <==> delete[]
 
 ## ссылки
 
@@ -110,7 +110,6 @@ class Array{
     void fill(int value);
 }
 ```
-
 ---
 
 ```
