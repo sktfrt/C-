@@ -107,3 +107,10 @@ namespace muLib{
 
 ## стандартная библиотека 
 
+## шаблоны
+```cpp
+template<typename T>
+class scoped_ptr{
+    T* count;
+}
+```
