@@ -8,7 +8,7 @@ void printPrice(){return Readble::price}
 ```
 
 **Diamond problem** - а если у нас класс Readble еще наследуется от чего то?  
-можно добавить virtul, тогда класс будет один на всех детей
+можно добавить virtual, тогда класс будет один на всех детей
 ```cpp
 public Readble: public virtual IOBase{}
 ```
@@ -47,7 +47,7 @@ namespace xml{
     class Parser{...};
 }
 
-namespace xml{
+namespace json{
     class Node {...};
     class Parser{...};
 }
@@ -70,7 +70,7 @@ Parser parser("");
 **не писать using namespace std;**
 
 можно сделать вложенные namespace-ы  
-можно сощдать для вложенный mspc сделать синоним
+можно создать для вложенный nspc синоним
 ```cpp
 namespace boost{
     namespace multi{...}
@@ -80,7 +80,7 @@ namespace bmp = boost::multi;
 ```
 ---
 **global namespaces**  
-::method() - обращение к глобальному пространству имен
+*ничего, пустота реал*::method() - обращение к глобальному пространству имен
 ---
 
 у nmspc можно пропустить имя(aнонимное пространство имен) - это равносильно static в си
