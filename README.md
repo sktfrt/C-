@@ -12,3 +12,4 @@
 - [practic 2](practices/practic_2.md)
 - [practic 3](practices/practic_3.md)
 - [practic 4](practices/practic_4.md)
+- [przctic 5](practices/practic_5.md)
