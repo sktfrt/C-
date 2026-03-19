@@ -6,10 +6,11 @@
 - [lecture 3](lectures/lecture_3.md)
 - [lecture 4](lectures/lecture_4.md)
 - [lecture 5](lectures/lecture_5.md)
+- [lecture 6](lectures/lecture_6.md)
 
 ## Практики
 - [practic 1](practices/practic_1.md)
 - [practic 2](practices/practic_2.md)
 - [practic 3](practices/practic_3.md)
 - [practic 4](practices/practic_4.md)
-- [przctic 5](practices/practic_5.md)
+- [practic 5](practices/practic_5.md)
