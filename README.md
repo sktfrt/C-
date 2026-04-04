@@ -16,3 +16,4 @@
 - [practic 4](practices/practic_4.md)
 - [practic 5](practices/practic_5.md)
 - [practic 6](practices/practic_6.md)
+- [practic 7](practices/practic_7.md)
