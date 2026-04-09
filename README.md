@@ -8,6 +8,8 @@
 - [lecture 5](lectures/lecture_5.md)
 - [lecture 6](lectures/lecture_6.md)
 - [lecture 7](lectures/lecture_7.md)
+- no lecture 8
+- [lecture 9](lectures/lecture_9.md)
 
 ## Практики
 - [practic 1](practices/practic_1.md)
@@ -17,3 +19,4 @@
 - [practic 5](practices/practic_5.md)
 - [practic 6](practices/practic_6.md)
 - [practic 7](practices/practic_7.md)
+- [practic 8](practices/practic_8.md)
