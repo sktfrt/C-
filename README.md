@@ -8,8 +8,9 @@
 - [lecture 5](lectures/lecture_5.md)
 - [lecture 6](lectures/lecture_6.md)
 - [lecture 7](lectures/lecture_7.md)
-- no lecture 8
+- no lecture 8 :(
 - [lecture 9](lectures/lecture_9.md)
+- [lecture 10](lectures/lecture_10.md)
 
 ## Практики
 - [practic 1](practices/practic_1.md)
