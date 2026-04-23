@@ -11,6 +11,7 @@
 - no lecture 8 :(
 - [lecture 9](lectures/lecture_9.md)
 - [lecture 10](lectures/lecture_10.md)
+- [lecture 11](lectures/lecture_11.md)
 
 ## Практики
 - [practic 1](practices/practic_1.md)
@@ -21,3 +22,4 @@
 - [practic 6](practices/practic_6.md)
 - [practic 7](practices/practic_7.md)
 - [practic 8](practices/practic_8.md)
+- [practic 9](practices/practic_9.md)
