@@ -24,3 +24,5 @@
 - [practic 7](practices/practic_7.md)
 - [practic 8](practices/practic_8.md)
 - [practic 9](practices/practic_9.md)
+- [practic 10](practices/practic_10.md)
+- [practic 11](practices/practic_11.md)
