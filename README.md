@@ -15,6 +15,7 @@
 - [lecture 12](lectures/lecture_12.md)
 - [lecture 13](lectures/lecture_13.md)
 - [lecture 14](lectures/lecture_14.md)
+- [lecture 15(extra)](lectures/lecture_15(extra).md)
 
 ## Практики
 - [practic 1](practices/practic_1.md)
@@ -29,3 +30,4 @@
 - [practic 10](practices/practic_10.md)
 - [practic 11](practices/practic_11.md)
 - [practic 12](practices/practic_12.md)
+- [practic 13](practices/practic_13.md)
